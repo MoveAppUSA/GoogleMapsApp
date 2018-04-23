@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MovingServicePlatformApp</string>
+    <string name="title_activity_maps_main">Enter your location</string>
+</resources>
